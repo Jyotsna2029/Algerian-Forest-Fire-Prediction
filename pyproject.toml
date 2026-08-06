@@ -1,2 +1,12 @@
+[project]
+name = "algerian-forest-fire-prediction"
+version = "0.1.0"
+dependencies = [
+    "flask",
+    "numpy",
+    "pandas",
+    "scikit-learn"
+]
+
 [tool.vercel]
 entrypoint = "application:application"
