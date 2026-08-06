@@ -77,5 +77,4 @@ Press **Ctrl + C** in the terminal.
 - JavaScript (optional)
 
 ## Author
-
-Your Name
+JYOTSNA
